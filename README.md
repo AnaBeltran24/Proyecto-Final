@@ -21,8 +21,8 @@ Pygame es una librería para el desarrollo de videojuegos en segunda dimensión 
 ## Visual Studio Code:
 Visual Studio Code es un editor de código fuente desarrollado por Microsoft que proporciona muchas facilidades para escribir, depurar y probar código. Es software libre y multiplataforma, está disponible para Windows, GNU/Linux y macOS. De igual manera, tiene una buena integración con Git, y dispone de un sinnúmero de extensiones, que básicamente te da la posibilidad de escribir y ejecutar código en cualquier lenguaje de programación.
 
-# Conclusión
-Gracias a este proyecto, tuvimos la oportunidad de reforzar los temas vistos en el curso de algoritmos y programación, ya que como se menciona anteriormente, utilizamos Python, junto a sus condicionales (if) y bucles (while y for). Asimismo, aprendimos sobre Pygame y los códigos que utiliza. Por último,  logramos comprender como se lleva a cabo el proceso de programación. Es un procedimiento que requiere paciencia, delicadeza, comprensión y resolución de problemas.  Esperamos poder aplicar el conocimiento y la experiencia adquirida en este proyecto en nuestro futuro. 
-
 # ¿Por qué Pong?
 Tomamos la decisión de crear un Pong ya que este nos da la oportunidad de aplicar lo visto en clase, como el uso de funciones, bucles con while y for, y condicionales if, elif, else. De igual manera, queríamos desarrollar un juego multijugador, que permita la diversión entre amigos y familiares.
+
+# Conclusión
+Gracias a este proyecto, tuvimos la oportunidad de reforzar los temas vistos en el curso de algoritmos y programación, ya que como se menciona anteriormente, utilizamos Python, junto a sus condicionales (if) y bucles (while y for). Asimismo, aprendimos sobre Pygame y los códigos que utiliza. Por último,  logramos comprender como se lleva a cabo el proceso de programación. Es un procedimiento que requiere paciencia, delicadeza, comprensión y resolución de problemas.  Esperamos poder aplicar el conocimiento y la experiencia adquirida en este proyecto en nuestro futuro. 
