@@ -23,3 +23,6 @@ Visual Studio Code es un editor de código fuente desarrollado por Microsoft que
 
 # Conclusión
 Gracias a este proyecto, tuvimos la oportunidad de reforzar los temas vistos en el curso de algoritmos y programación, ya que como se menciona anteriormente, utilizamos Python, junto a sus condicionales (if) y bucles (while y for). Asimismo, aprendimos sobre Pygame y los códigos que utiliza. Por último,  logramos comprender como se lleva a cabo el proceso de programación. Es un procedimiento que requiere paciencia, delicadeza, comprensión y resolución de problemas.  Esperamos poder aplicar el conocimiento y la experiencia adquirida en este proyecto en nuestro futuro. 
+
+# ¿Por qué Pong?
+Tomamos la decisión de crear un Pong ya que este nos da la oportunidad de aplicar lo visto en clase, como el uso de funciones, bucles con while y for, y condicionales if, elif, else. De igual manera, queríamos desarrollar un juego multijugador, que permita la diversión entre amigos y familiares.
