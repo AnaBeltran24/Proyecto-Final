@@ -10,6 +10,7 @@ Julián Camilo Espinosa
 
 <img src="https://tierragamer.com/wp-content/uploads/2017/12/Pong-1280x720.jpg" width="900" height="400" />
 # Programas que usamos:
+
 ## Python:
 Python es un lenguaje de programación de alto nivel que se utiliza para desarrollar aplicaciones de todo tipo. A diferencia de otros lenguajes como Java o .NET, se trata de un lenguaje interpretado, es decir, que no es necesario compilarlo para ejecutar las aplicaciones escritas en Python, sino que se ejecutan directamente por el ordenador. Asimismo, es un lenguaje sencillo de leer y escribir debido a su alta similitud con el lenguaje humano. Con el paso del tiempo, Python ha ido ganando adeptos gracias a su sencillez y a sus amplias posibilidades, sobre todo en los últimos años, ya que facilita trabajar con inteligencia artificial, big data, machine learning y data science, entre muchos otros campos en auge.
 
