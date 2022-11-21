@@ -39,7 +39,7 @@ all_sprites=pygame.sprite.Group()
 all_sprites.add(Jugador1, Jugador2, pelotaAJ)
 
 
-def redraw():
+def dpantalla():
     pantalla.fill(black)
     font = pygame.font.SysFont('Comic Sans',30)
     text= font.render('PONG',False,white)
@@ -103,6 +103,6 @@ while Juego:
     if Jugador2.rect.colliderect(pelotaAJ.rect):
         pelotaAJ.dx=-1
     
-    redraw()
+    dpantalla()
 
 pygame.quit
